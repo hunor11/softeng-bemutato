@@ -1,0 +1,4 @@
+rootProject.name = 'Arhitectures'
+include 'Hexagonal'
+include 'ThreeLayer'
+
